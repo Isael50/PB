@@ -1,0 +1,88 @@
+https://platzi.com/cursos/programacion-basica/
+
+https://www.youtube.com/watch?v=nx6RiBu_Pkg&index=6&list=PLa28R7QEiMblzVDP7UxmVmUTVzc8M2xWP
+
+minutos 18:46
+
+Qué son variables y funciones en Javascript | Curso de programación básica | Clase 1 - parte 3
+
+
+
+
+https://platzi.com/clases/programacion-basica/concepto/bienvenido-al-curso0560/bienvenidos/material/
+
+
+https://platzi.com/clases/programacion-basica/
+
+
+-------------------------------------------------------------------------------
+
+Escribir HTML desde JavaScript con document.write | Curso de programación básica | Clase 2 - parte 1
+
+https://www.youtube.com/watch?v=Ms9y3n2stz0&list=PLa28R7QEiMblzVDP7UxmVmUTVzc8M2xWP&index=8
+-------------------------------------------------------------------------------
+
+Cómo hacer un juego en JavaScript | Curso de programación básica | Clase 2 - parte 3
+
+https://www.youtube.com/watch?v=AyXnCh-5las&list=PLa28R7QEiMblzVDP7UxmVmUTVzc8M2xWP&index=10
+
+Matriz Bidimencional.
+
+-------------------------------------------------------------------------------
+r0mina_17
+
+Introducción al Document Object Model (DOM) | Curso de programación básica | Clase 2 - parte 4
+
+https://www.youtube.com/watch?v=MXi8IaKU384&list=PLa28R7QEiMblzVDP7UxmVmUTVzc8M2xWP&index=11
+Minuto: 4:30
+
+-------------------------------------------------------------------------------
+
+Cómo crear objetos con JavaScript | Curso de programación básica | Clase 2 - parte 5
+
+https://www.youtube.com/watch?v=QyHeg8omcMc&index=12&list=PLa28R7QEiMblzVDP7UxmVmUTVzc8M2xWP
+
+Video: 12/24
+Minuto: 21:00
+
+Objetos
+Eventos del Usuario
+Variables por Asignacion de Valor
+Variables por Asignacion de Referencia
+
+
+-------------------------------------------------------------------------------
+
+Dibujando en canvas con JavaScript | Curso de programación básica | Clase 3 - parte 2
+
+https://www.youtube.com/watch?v=aXFAPXUGng0&index=14&list=PLa28R7QEiMblzVDP7UxmVmUTVzc8M2xWP
+
+-------------------------------------------------------------------------------
+
+Cómo dibujar eventos con JavaScript | Curso de programación básica | Clase 3 - parte 3
+
+https://www.youtube.com/watch?v=skMS1qEdIZ0&list=PLa28R7QEiMblzVDP7UxmVmUTVzc8M2xWP&index=15
+
+
+-------------------------------------------------------------------------------
+
+Tipos de archivos de imágenes | Curso de programación básica | Clase 4 - parte 1
+
+https://www.youtube.com/watch?v=AJKnYC_WnAI&index=16&list=PLa28R7QEiMblzVDP7UxmVmUTVzc8M2xWP
+
+
+
+-------------------------------------------------------------------------------
+
+Dibujar y controlar personaje en videojuego | Curso de programación básica | Clase 4 - parte 4
+
+https://www.youtube.com/watch?v=iOJmfQHCbEo&list=PLa28R7QEiMblzVDP7UxmVmUTVzc8M2xWP&index=19
+
+minuto : 33
+
+
+-------------------------------------------------------------------------------
+
+https://www.youtube.com/watch?v=k42Yb04xEPo&list=PLa28R7QEiMblzVDP7UxmVmUTVzc8M2xWP&index=21
+
+Minuto: 48

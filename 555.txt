@@ -1,0 +1,49 @@
+- Administración de Servidor de Respaldo (Linux RedHat 5u4).
+- Alta, baja o modificación de cuentas de usuario en el dominio, PEMEX, así como resetear contraseñas de usuarios.
+- Respaldo de información (Archivos: *.segy, *.las, *.cgm)
+- Permisos de lectura/escritura a nivel usuario.
+- Soporte a Workstation (Marcas: Sun Microsystems, HP), (Modelos: Sun Java, Sun Blade 2000 y Sun Blade 2500), (HP xw9400, xw4400).
+- Control de Inventario de Workstation.
+- Mantenimiento Preventivo y Correctivo a las Workstation (Windows/Linux/Unix).
+- Conocimientos básicos para la instalación de Sistemas Operativos en computadoras de escritorio, laptops.
+- Conocimientos en la paquetería de Microsoft Office (Word, Excel, Power Point, Outlook, Project).
+- Conocimientos en Internet, Intranet, proxies y la configuración de navegador de internet (Internet Explorer, Mozilla, Chrome).
+- Activación y configuración de cuentas de correo Microsoft Exchange.
+- Respaldo de perfil de usuario de correo (archivos pst., ost.).
+- Conocimientos en la conexión a las videoconferencias.
+- Configuración de dispositivos (impresora, multifuncionales, móviles).
+- Conexión remota VPN, Team Viewer.
+- Utilización de herramientas de recuperación y respaldo de datos e imágenes Norton Ghost, acronis true imagen, Recuva.
+- Apoyo y seguimiento a las fallas de Software Técnico y de TI tanto en el proceso de recolección, integración, administración y a lmacenamiento de información en tiempo real.
+- Conocimientos de las plataformas tecnológicas utilizadas en PEMEX (SIOP, @SIOP, SIIPMP, ADITEP, EXDIPO, SAP, COFICO, MICOP, SAC, SISREPO, BUSSINES OBJECT, SISPAP).
+- Mesa de ayuda (Atención, asignación y seguimiento a incidencias vía telefónica y remota).
+- Conocimiento y utilización de herramientas BMC Remedy Action Request, HP ServiceDesk
+- Configuracion de Windows Server (Directorio activo, Servidor de Correo, Servidor Web.
+- Control de Garantías de Hardware.
+- manejo de Plataformas para atención de tickets
+- Creación de Mapas y modelos analíticos basados en el Sistema de Información Geográfica (ArcGis).
+
+
+
+
+
+-----------------
+
+
+
+- Administración de Servidor de Respaldo (Linux RedHat 5u4).
+- Permisos de lectura/escritura a nivel usuario.
+- Mantenimiento Preventivo y Correctivo a las Workstation (Windows/Linux/Unix).
+- Conocimientos básicos para la instalación de Sistemas Operativos en computadoras de escritorio, laptops.
+- Conocimientos en la paquetería de Microsoft Office (Word, Excel, Power Point, Outlook, Project).
+- Conocimientos en Internet, Intranet, proxies y la configuración de navegador de internet (Internet Explorer, Mozilla, Chrome).
+- Activación y configuración de cuentas de correo Microsoft Exchange.
+- Respaldo de perfil de usuario de correo (archivos pst., ost.).
+- Conocimientos en la conexión a las videoconferencias.
+- Configuración de dispositivos (impresora, multifuncionales, móviles).
+- Conexión remota VPN, Team Viewer.
+- Apoyo y seguimiento a las fallas de Software Técnico y de TI tanto en el proceso de recolección, integración, administración y a lmacenamiento de información en tiempo real.
+- Conocimientos de las plataformas tecnológicas utilizadas en PEMEX (SIOP, @SIOP, SIIPMP, ADITEP, EXDIPO, SAP, COFICO, MICOP, SAC, SISREPO, BUSSINES OBJECT, SISPAP).
+- Mesa de ayuda (Atención, asignación y seguimiento a incidencias vía telefónica y remota).
+- Configuracion de Windows Server (Directorio activo, Servidor de Correo, Servidor Web.
+

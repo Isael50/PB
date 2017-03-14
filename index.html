@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Objetos</title>
+	<script type="text/javascript">
+	//Variable global
+	var nombre = "Frisco";
+	//Clase: Es un Objeto Maestro, del que se derivan otros objetos.
+	//Clase: Es la definicion del Objeto.
+	//Creacion de Objetos con Multiples propositos.
+	var Mascota = function (n, v)
+	{
+		this.nombre = n;
+		this.voz = v;
+	}
+	//Crear una function hablar
+	//Prototype es meterse a la construccion interna del Objeto
+	Mascota.prototype.hablar = function ()
+	{
+		alert(this.nombre + " dice: " + this.voz);
+	}
+
+	// perro es un objto de la clase Mascota
+	var perro = new Mascota("Roco", "Guau!!!");
+	// gato es otro objeto de la clase Mascota
+	var gato = new Mascota("Pelusa", "Miau!!!");
+	//Llamar la funcion Hablar
+	perro.hablar();
+	gato.hablar();
+
+
+		/*Creacion de Objetos simples (Objeto JSON)
+		var perro = {
+			agilidad: 50,
+			fuerza: 100,
+			limpieza: false,
+			longevidad: 14,
+			amor: true,
+			voz: function (){
+				alert("Guau!!!");
+			}
+		};
+		perro.voz();*/
+	</script>
+</head>
+<body>
+
+</body>
+</html>

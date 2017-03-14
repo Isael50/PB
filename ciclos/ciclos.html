@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Ciclos</title>
+	<script type="text/javascript">
+	var c = float, t = float, b = float, numero = float, calculo = float, n = float;
+
+	function inicio()
+	{
+		c = document.getElementById("caja");
+		t = document.getElementById("cajita");
+		b = document.getElementById("botoncito");
+
+		b.addEventListener("click", calcular);
+
+//		var numeros = 1;
+//		var residuo;
+//		while(numeros <= 50)
+//		{
+//			residuo = numeros % 2;
+//			if(residuo == 0)
+//			{
+//				c.innerHTML += " " + numeros;
+//			}
+//			numeros++;
+//		}
+
+
+			/*Ciclo MIENTRAS  --------------------------------------
+			var gritos = 10;
+			while(gritos > 0)
+			{
+				c.innerHTML += "a";
+				gritos = gritos - 1;
+			}
+			c.innerHTML += "h!";*/
+	}
+
+
+	function calcular()
+	{
+		var numero = Number(t.value);
+		var calculo = 1;
+		var n = 1;
+// Se cambio el Cilo While por el Ciclo For
+//		while(n <= numero)
+//		{
+//			calculo = calculo * n;
+//			n++;
+//		}
+		for(n = 1; n <= numero; n++)
+		{
+			calculo = calculo * n;
+		}
+		c.innerHTML = calculo;
+	}
+
+	</script>
+
+</head>
+<body>
+<input type="text" id="cajita" />
+<input type="button" id="botoncito" value="Tocame~" />
+<div id="caja">Nada</div>
+<div>Otra caja</div>
+<script type="text/javascript">
+	inicio();
+</script>
+</body>
+</html>
